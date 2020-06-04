@@ -4,6 +4,7 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
+    "xbto",
     "alphavantage-sdr",
     "nomics",
     "external-adapter",
